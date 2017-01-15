@@ -18,10 +18,6 @@ perspective effects (not including the modals and the overlay).
 	perspective: 600px;
 }
 
-.container {
-	background: #e74c3c;
-	min-height: 100%;
-}
 
 .md-modal {
 	position: fixed;
@@ -55,7 +51,7 @@ perspective effects (not including the modals and the overlay).
 	left: 0;
 	z-index: 1000;
 	opacity: 0;
-	background: rgba(94,191,237,0.8);
+	background: rgba(75,177,183, 0.8);
 	-webkit-transition: all 0.3s;
 	-moz-transition: all 0.3s;
 	transition: all 0.3s;
@@ -69,7 +65,7 @@ perspective effects (not including the modals and the overlay).
 /* Content styles */
 .md-content {
 	color: #fff;
-	background: #5ebfed;
+	background: #4bb1b7;
 	position: relative;
 	border-radius: 3px;
 	margin: 0 auto;
